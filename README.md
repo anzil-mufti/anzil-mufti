@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm ANZIL MUFTI</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47vtkslj67guuwm729ijkajsh8mezy1bapyem891qi&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working on **SmartAid( A technology aid)**
+-I’m currently working on **SmartAid( A technology aid)**
 
-- 🌱 I’m currently diving deep into **Development**
+-I’m currently diving deep into **Development**
 
-- 💬 Ask me about **Java, React**
+-Ask me about **Java and Web development**
 
-- 📫 How to reach me **anzilmufti@gmail.com**
+-You can reach me at **anzilmufti@gmail.com**
 
-- ⚡ Fun fact **I love to binge watch movies and series.**
+- Fun fact **I'm an ailurophile and I love to binge watch movies and series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
