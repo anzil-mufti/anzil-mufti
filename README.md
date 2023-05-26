@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1380&t=st=1683314954~exp=1683315554~hmac=ca125c53a35c472eaf690674369bdba53613342f274bb82bd21c11240fe5b647)](https://anzilmufti.io)
+<!-- [![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1380&t=st=1683314954~exp=1683315554~hmac=ca125c53a35c472eaf690674369bdba53613342f274bb82bd21c11240fe5b647)](https://anzilmufti.io) -->
 <h1 align="center">Hello World, I'm ANZIL MUFTI</h1>
 <h3 align="center">A passionate software engineering student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47vtkslj67guuwm729ijkajsh8mezy1bapyem891qi&ep=v1_gifs_related&rid=giphy.gif&ct=g">
