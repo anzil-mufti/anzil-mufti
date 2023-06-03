@@ -2,14 +2,9 @@
 <h1 align="center">Hello World, I'm ANZIL MUFTI</h1>
 <h3 align="center">A passionate software engineering student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47vtkslj67guuwm729ijkajsh8mezy1bapyem891qi&ep=v1_gifs_related&rid=giphy.gif&ct=g">
--I’m currently working on **SmartAid**
-
--Ask me about **Java and Web development**
-
--You can reach me at **anzilmufti@gmail.com**
-
-- Fun fact **I'm an ailurophile and I love to binge watch movies and series.**
-
+Ask me about Java and Web development
+You can reach me at anzilmufti@gmail.com
+Fun fact: I'm an ailurophile and I love to binge watch movies and series.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anzilmufti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anzilmufti" height="30" width="40" /></a>
